@@ -1,1 +1,1 @@
-# Python-for-Data-Science-UCSD
+# Python-for-Data-Science
